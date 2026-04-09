@@ -1,0 +1,5 @@
+{
+  "name": "Visual Compare",
+  "description": "A visual image comparison tool supporting split view, grid view, and pixel-level diffing.",
+  "requestFramePermissions": []
+}
